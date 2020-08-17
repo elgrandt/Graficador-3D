@@ -1,0 +1,1282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="64566eba-2b6b-43fb-9497-09a14b1d9c39" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Documents/GitHub/ShooterInc/OGL.py" afterPath="$USER_HOME$/Documents/GitHub/ShooterInc/OGL.py" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Documents/GitHub/ShooterInc/base.py" afterPath="$USER_HOME$/Documents/GitHub/ShooterInc/base.py" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Documents/GitHub/ShooterInc/objects/enemy.py" afterPath="$USER_HOME$/Documents/GitHub/ShooterInc/objects/enemy.py" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Documents/GitHub/ShooterInc/objects/player.py" afterPath="$USER_HOME$/Documents/GitHub/ShooterInc/objects/player.py" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Documents/GitHub/ShooterInc/pywavefront/__init__.py" afterPath="$USER_HOME$/Documents/GitHub/ShooterInc/pywavefront/__init__.py" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Documents/GitHub/ShooterInc/pywavefront/material.py" afterPath="$USER_HOME$/Documents/GitHub/ShooterInc/pywavefront/material.py" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Documents/GitHub/ShooterInc/pywavefront/mesh.py" afterPath="$USER_HOME$/Documents/GitHub/ShooterInc/pywavefront/mesh.py" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Documents/GitHub/ShooterInc/pywavefront/parser.py" afterPath="$USER_HOME$/Documents/GitHub/ShooterInc/pywavefront/parser.py" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Documents/GitHub/ShooterInc/pywavefront/texture.py" afterPath="$USER_HOME$/Documents/GitHub/ShooterInc/pywavefront/texture.py" />
+    </list>
+    <ignored path="Graficador 3D.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Graficador 3D$Run.coverage" NAME="Run Coverage Results" MODIFIED="1458689122829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Graficador 3D$main.coverage" NAME="main Coverage Results" MODIFIED="1459616424298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Documents/GitHub/ShooterInc" />
+    <SUITE FILE_PATH="coverage/Graficador 3D$rotation_test.coverage" NAME="rotation_test Coverage Results" MODIFIED="1458688724191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Documents/GitHub/ShooterInc" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Graficador 3D" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="player.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Documents/GitHub/ShooterInc/objects/player.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="32" column="68" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="68" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OGL.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Documents/GitHub/ShooterInc/OGL.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="410" column="28" selection-start-line="410" selection-start-column="28" selection-end-line="410" selection-end-column="28" />
+              <folding>
+                <element signature="e#358#972#0" expanded="false" />
+                <element signature="e#1013#1033#0" expanded="false" />
+                <element signature="e#1064#1074#0" expanded="false" />
+                <element signature="e#1105#1115#0" expanded="false" />
+                <element signature="e#1146#1156#0" expanded="false" />
+                <element signature="e#1193#1223#0" expanded="false" />
+                <element signature="e#1267#1289#0" expanded="false" />
+                <element signature="e#1333#1355#0" expanded="false" />
+                <element signature="e#1399#1421#0" expanded="false" />
+                <element signature="e#1463#1501#0" expanded="false" />
+                <element signature="e#1546#1569#0" expanded="false" />
+                <element signature="e#1611#1637#0" expanded="false" />
+                <element signature="e#1666#1739#0" expanded="false" />
+                <element signature="e#1769#1773#0" expanded="false" />
+                <element signature="e#1804#1808#0" expanded="false" />
+                <element signature="e#1840#2943#0" expanded="false" />
+                <element signature="e#2965#5478#0" expanded="false" />
+                <element signature="e#2999#3261#0" expanded="false" />
+                <element signature="e#3292#3302#0" expanded="false" />
+                <element signature="e#3333#3343#0" expanded="false" />
+                <element signature="e#3387#3462#0" expanded="false" />
+                <element signature="e#3510#4135#0" expanded="false" />
+                <element signature="e#4208#4735#0" expanded="false" />
+                <element signature="e#4813#5290#0" expanded="false" />
+                <element signature="e#5319#5323#0" expanded="false" />
+                <element signature="e#5355#5478#0" expanded="false" />
+                <element signature="e#5513#6096#0" expanded="false" />
+                <element signature="e#5547#5639#0" expanded="false" />
+                <element signature="e#5687#5741#0" expanded="false" />
+                <element signature="e#5780#5887#0" expanded="false" />
+                <element signature="e#5919#6096#0" expanded="false" />
+                <element signature="e#6117#6193#0" expanded="false" />
+                <element signature="e#6145#6193#0" expanded="false" />
+                <element signature="e#6243#6328#0" expanded="false" />
+                <element signature="e#6384#6584#0" expanded="false" />
+                <element signature="e#6623#6730#0" expanded="false" />
+                <element signature="e#6768#7035#0" expanded="false" />
+                <element signature="e#7081#7137#0" expanded="false" />
+                <element signature="e#7177#7242#0" expanded="false" />
+                <element signature="e#8233#8325#0" expanded="false" />
+                <element signature="e#8351#9509#0" expanded="false" />
+                <element signature="e#8375#9509#0" expanded="false" />
+                <element signature="e#9540#10355#0" expanded="false" />
+                <element signature="e#9593#9693#0" expanded="false" />
+                <element signature="e#9737#9792#0" expanded="false" />
+                <element signature="e#9821#10355#0" expanded="false" />
+                <element signature="e#10380#11413#0" expanded="false" />
+                <element signature="e#11437#11679#0" expanded="false" />
+                <element signature="e#11465#11679#0" expanded="false" />
+                <element signature="e#11704#11946#0" expanded="false" />
+                <element signature="e#11732#11946#0" expanded="false" />
+                <element signature="e#12801#15625#0" expanded="false" />
+                <element signature="e#15659#18592#0" expanded="false" />
+                <element signature="e#18631#18813#0" expanded="false" />
+                <element signature="e#18853#19038#0" expanded="false" />
+                <element signature="e#19067#20157#0" expanded="false" />
+                <element signature="e#20187#20610#0" expanded="false" />
+                <element signature="e#20285#20503#0" expanded="false" />
+                <element signature="e#20534#20610#0" expanded="false" />
+                <element signature="e#20634#22945#0" expanded="false" />
+                <element signature="e#20634#20743#1" expanded="false" />
+                <element signature="e#20796#20863#0" expanded="false" />
+                <element signature="e#20927#21136#0" expanded="false" />
+                <element signature="e#21170#21252#0" expanded="false" />
+                <element signature="e#21292#21426#0" expanded="false" />
+                <element signature="e#21465#21846#0" expanded="false" />
+                <element signature="e#21880#22945#0" expanded="false" />
+                <element signature="e#21880#22444#1" expanded="false" />
+                <element signature="e#22984#23219#0" expanded="false" />
+                <element signature="e#23259#23332#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="enemy.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Documents/GitHub/ShooterInc/objects/enemy.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="material.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Documents/GitHub/ShooterInc/pywavefront/material.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="108" column="32" selection-start-line="108" selection-start-column="32" selection-end-line="108" selection-end-column="32" />
+              <folding>
+                <element signature="e#1719#1742#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mesh.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Documents/GitHub/ShooterInc/pywavefront/mesh.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="44" column="27" selection-start-line="44" selection-start-column="27" selection-end-line="44" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/Documents/GitHub/ShooterInc/pywavefront/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.33333334">
+              <caret line="118" column="0" selection-start-line="118" selection-start-column="0" selection-end-line="118" selection-end-column="0" />
+              <folding>
+                <element signature="e#1719#1746#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Dylan" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/Documents/GitHub/ShooterInc" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$USER_HOME$/Documents/GitHub/ShooterInc/main.py" />
+        <option value="$USER_HOME$/Documents/GitHub/ShooterInc/test_gravitation.py" />
+        <option value="$USER_HOME$/Documents/GitHub/ShooterInc/macros.py" />
+        <option value="$USER_HOME$/Documents/GitHub/ShooterInc/objects/__init__.py" />
+        <option value="$USER_HOME$/Documents/GitHub/ShooterInc/shoot.py" />
+        <option value="$USER_HOME$/Documents/GitHub/ShooterInc/models/Handgun_obj.mtl" />
+        <option value="$USER_HOME$/Documents/GitHub/ShooterInc/models/Gentlerman.obj.mtl" />
+        <option value="$USER_HOME$/Documents/GitHub/ShooterInc/models/Police_Rigged.obj" />
+        <option value="$USER_HOME$/Documents/GitHub/ShooterInc/models/Police_Rigged.mtl" />
+        <option value="$USER_HOME$/Documents/GitHub/ShooterInc/config.py" />
+        <option value="$USER_HOME$/Documents/GitHub/ShooterInc/rotation_test.py" />
+        <option value="$USER_HOME$/Documents/GitHub/ShooterInc/pywavefront/parser.py" />
+        <option value="$USER_HOME$/Documents/GitHub/ShooterInc/base.py" />
+        <option value="$USER_HOME$/Documents/GitHub/ShooterInc/OGL.py" />
+        <option value="$USER_HOME$/Documents/GitHub/ShooterInc/objects/player.py" />
+        <option value="$USER_HOME$/Documents/GitHub/ShooterInc/pywavefront/texture.py" />
+        <option value="$USER_HOME$/Documents/GitHub/ShooterInc/models/Handgun_obj.obj" />
+        <option value="$USER_HOME$/Documents/GitHub/ShooterInc/pywavefront/material.py" />
+        <option value="$USER_HOME$/Documents/GitHub/ShooterInc/pywavefront/mesh.py" />
+        <option value="$USER_HOME$/Documents/GitHub/ShooterInc/objects/enemy.py" />
+        <option value="$USER_HOME$/Documents/GitHub/ShooterInc/pywavefront/__init__.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Graficador 3D" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches">
+        <subPane />
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Problems" />
+        <subPane subId="Changed Files" />
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="ShooterInc">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="C:\Users\dylan\Documents\GitHub\ShooterInc">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <subPane subId="Default" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/GitHub/ShooterInc" />
+    <property name="recentsLimit" value="5" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="true" />
+  </component>
+  <component name="PyDebuggerOptionsProvider">
+    <option name="mySaveCallSignatures" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dylan\Documents\GitHub\ShooterInc" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dylan\Documents\GitHub\ShooterInc\models" />
+      <recent name="C:\Users\dylan\Documents\GitHub\ShooterInc\models\textures" />
+      <recent name="C:\Users\dylan\Documents\GitHub\ShooterInc" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration default="false" name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Documents/GitHub/ShooterInc" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ShooterInc" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Documents/GitHub/ShooterInc/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="rotation_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Documents/GitHub/ShooterInc" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ShooterInc" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Documents/GitHub/ShooterInc/rotation_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Graficador 3D" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Graficador 3D" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Graficador 3D" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Graficador 3D" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Graficador 3D" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Graficador 3D" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Graficador 3D" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Graficador 3D" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Graficador 3D" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Run" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python27\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Graficador 3D" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Python.Run" />
+      <item index="1" class="java.lang.String" itemvalue="Python.main" />
+      <item index="2" class="java.lang.String" itemvalue="Python.rotation_test" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Python.main" />
+        <item index="1" class="java.lang.String" itemvalue="Python.rotation_test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64566eba-2b6b-43fb-9497-09a14b1d9c39" name="Default" comment="" />
+      <created>1421896443233</created>
+      <option name="number" value="Default" />
+      <updated>1421896443233</updated>
+    </task>
+    <task id="LOCAL-00001" summary="added OGL">
+      <created>1456432825854</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1456432825854</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added 3d system and physics test">
+      <created>1456443296508</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1456443296508</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added 3d system and physics test">
+      <created>1456700393204</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1456700393204</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added 2D system but continue with a color bug that cant delete the color from 3D buffers before writting 2D things">
+      <created>1456717474794</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1456717474794</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Solved the 2D blits color bug and minor bug fixes">
+      <created>1456888667808</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1456888667808</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Created the ComplexObject class for objects with multiple objects inside&#10;Created the enemy file with the BasicEnemy class">
+      <created>1456961791035</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1456961791035</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added the player file with the Player class to manage the camera movement (without angle yet)">
+      <created>1456964403190</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1456964403190</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Trying to move the player">
+      <created>1456967040695</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1456967040695</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Fixed bug when moving cammera">
+      <created>1456978027766</created>
+      <option name="number" value="00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1456978027766</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Finished the player movement with mouse and WASD">
+      <created>1457018621547</created>
+      <option name="number" value="00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1457018621547</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Added the weapon Ak47 class">
+      <created>1457030891157</created>
+      <option name="number" value="00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1457030891157</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Building the weapon class">
+      <created>1457106251715</created>
+      <option name="number" value="00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1457106251715</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Finished weapon position bugs">
+      <created>1457133392981</created>
+      <option name="number" value="00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1457133392981</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Finished weapon pointing and related animations">
+      <created>1457139060587</created>
+      <option name="number" value="00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1457139060587</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Applying shoot algorithm to game">
+      <created>1457141480781</created>
+      <option name="number" value="00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1457141480781</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Testing shoot algorithm">
+      <created>1457144328004</created>
+      <option name="number" value="00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1457144328004</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Adding desing model for the weapon">
+      <created>1457147768169</created>
+      <option name="number" value="00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1457147768169</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Added pointer to check shoot">
+      <created>1457152283823</created>
+      <option name="number" value="00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1457152283823</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Edits on obj file loader">
+      <created>1457187195978</created>
+      <option name="number" value="00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1457187195978</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Added shoot animation and added group manipulation in the obj loader">
+      <created>1457230769219</created>
+      <option name="number" value="00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1457230769219</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Finishing weapon details&#10;">
+      <created>1457231823879</created>
+      <option name="number" value="00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1457231823879</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Changed weapon name to original">
+      <created>1457232508999</created>
+      <option name="number" value="00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1457232508999</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Adding enemies models and testing movements">
+      <created>1457243795687</created>
+      <option name="number" value="00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1457243795687</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Adding enemies models and testing movements">
+      <created>1457286960846</created>
+      <option name="number" value="00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1457286960846</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Added edits on config.py for weapon">
+      <created>1457288481788</created>
+      <option name="number" value="00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1457288481788</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Added lights and modified the obj loader to load materials">
+      <created>1457399870555</created>
+      <option name="number" value="00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1457399870555</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Added &quot;Loading textures&quot; message">
+      <created>1457402974939</created>
+      <option name="number" value="00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1457402974939</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Added y movement to the camera">
+      <created>1457484366565</created>
+      <option name="number" value="00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1457484366565</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Added edits on config.py for weapon">
+      <created>1457489175014</created>
+      <option name="number" value="00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1457489175014</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Trying to fix the rotation axis bug">
+      <created>1458619913464</created>
+      <option name="number" value="00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1458619913464</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Trying to fix the rotation axis bug">
+      <created>1458668123120</created>
+      <option name="number" value="00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1458668123120</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Finished Rotation Test">
+      <created>1458688872073</created>
+      <option name="number" value="00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1458688872073</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Almost finished the movement of objects with the camera (like the weapon). Still have a strange bug.">
+      <created>1458693309464</created>
+      <option name="number" value="00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1458693309464</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Added some edits to the pywavefront library">
+      <created>1458696631263</created>
+      <option name="number" value="00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1458696631263</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Added some edits to the pywavefront library">
+      <created>1458711629850</created>
+      <option name="number" value="00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1458711629850</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16354166" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20084566" sideWeight="0.50208336" order="14" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23255815" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Floobits Chat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20084566" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39852008" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added the player file with the Player class to manage the camera movement (without angle yet)" />
+    <MESSAGE value="Trying to move the player" />
+    <MESSAGE value="Fixed bug when moving cammera" />
+    <MESSAGE value="Finished the player movement with mouse and WASD" />
+    <MESSAGE value="Added the weapon Ak47 class" />
+    <MESSAGE value="Building the weapon class" />
+    <MESSAGE value="Finished weapon position bugs" />
+    <MESSAGE value="Finished weapon pointing and related animations" />
+    <MESSAGE value="Applying shoot algorithm to game" />
+    <MESSAGE value="Testing shoot algorithm" />
+    <MESSAGE value="Adding desing model for the weapon" />
+    <MESSAGE value="Added pointer to check shoot" />
+    <MESSAGE value="Edits on obj file loader" />
+    <MESSAGE value="Added shoot animation and added group manipulation in the obj loader" />
+    <MESSAGE value="Finishing weapon details&#10;" />
+    <MESSAGE value="Changed weapon name to original" />
+    <MESSAGE value="Adding enemies models and testing movements" />
+    <MESSAGE value="Added lights and modified the obj loader to load materials" />
+    <MESSAGE value="Added &quot;Loading textures&quot; message" />
+    <MESSAGE value="Added y movement to the camera" />
+    <MESSAGE value="Added edits on config.py for weapon" />
+    <MESSAGE value="Trying to fix the rotation axis bug" />
+    <MESSAGE value="Finished Rotation Test" />
+    <MESSAGE value="Almost finished the movement of objects with the camera (like the weapon). Still have a strange bug." />
+    <MESSAGE value="Added some edits to the pywavefront library" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added some edits to the pywavefront library" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$USER_HOME$/Documents/GitHub/ShooterInc/pywavefront/__init__.py</url>
+          <line>118</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="45" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/OGL.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30984205">
+          <caret line="74" column="63" selection-start-line="74" selection-start-column="63" selection-end-line="74" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/GitHub/ShooterInc/objects/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.018518519">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/GitHub/ShooterInc/macros.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="50" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/GitHub/ShooterInc/shoot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.46291208">
+          <caret line="63" column="0" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/OpenGL/platform/baseplatform.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43956044">
+          <caret line="401" column="0" selection-start-line="401" selection-start-column="0" selection-end-line="401" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/GitHub/ShooterInc/models/textures/handgun_Fire.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/GitHub/ShooterInc/models/textures/head.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/GitHub/ShooterInc/models/textures/l_elbowpad_n.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/GitHub/ShooterInc/models/textures/head_n.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/GitHub/ShooterInc/models/Man.obj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.83104396">
+          <caret line="27058" column="32" selection-start-line="27058" selection-start-column="31" selection-end-line="27058" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/GitHub/ShooterInc/models/Boy.obj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/GitHub/ShooterInc/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39697802">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/GitHub/ShooterInc/models/textures/handgun_S.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/GitHub/ShooterInc/models/textures/handgun_N.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/GitHub/ShooterInc/models/textures/handgun_C.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/GitHub/ShooterInc/models/Boy.mtl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.521978">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2410" column="0" selection-start-line="2410" selection-start-column="0" selection-end-line="2410" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/GitHub/ShooterInc/models/Man.mtl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.093406595">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/GitHub/ShooterInc/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18518518">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/GitHub/ShooterInc/rotation_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21016483">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="83" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/GitHub/ShooterInc/models/Zuccarello.obj">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/GitHub/ShooterInc/models/textures/eye_n.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/GitHub/ShooterInc/models/textures/all_n.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/GitHub/ShooterInc/models/textures/wrinkles_n.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/GitHub/ShooterInc/models/textures/spittle_n.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/GitHub/ShooterInc/models/textures/spittle.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/GitHub/ShooterInc/models/textures/shoes_n.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/GitHub/ShooterInc/models/textures/r_kneepad.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/GitHub/ShooterInc/models/textures/r_elbowpad.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/GitHub/ShooterInc/models/textures/Pants.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/GitHub/ShooterInc/models/textures/LobbyCube.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/GitHub/ShooterInc/models/textures/l_kneepad_n.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/GitHub/ShooterInc/models/textures/l_kneepad.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/GitHub/ShooterInc/models/textures/l_elbowpad.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/GitHub/ShooterInc/models/textures/eye_ov.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/GitHub/ShooterInc/models/textures/eye.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/GitHub/ShooterInc/models/textures/head_f.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/GitHub/ShooterInc/models/textures/all_color.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/GitHub/ShooterInc/pywavefront/parser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3228022">
+          <caret line="40" column="37" selection-start-line="40" selection-start-column="37" selection-end-line="40" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/GitHub/ShooterInc/models/Rock.mtl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/GitHub/ShooterInc/pywavefront/texture.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8832418">
+          <caret line="59" column="12" selection-start-line="59" selection-start-column="12" selection-end-line="59" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/GitHub/ShooterInc/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2802198">
+          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/GitHub/ShooterInc/models/Rock.obj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7517832">
+          <caret line="11806" column="11" selection-start-line="11806" selection-start-column="11" selection-end-line="11806" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/GitHub/ShooterInc/models/Handgun_obj.obj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="5089" column="6" selection-start-line="5089" selection-start-column="0" selection-end-line="5089" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/GitHub/ShooterInc/models/Handgun_obj.mtl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.60714287">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/GitHub/ShooterInc/objects/player.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="32" column="68" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/GitHub/ShooterInc/OGL.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="410" column="28" selection-start-line="410" selection-start-column="28" selection-end-line="410" selection-end-column="28" />
+          <folding>
+            <element signature="e#358#972#0" expanded="false" />
+            <element signature="e#1013#1033#0" expanded="false" />
+            <element signature="e#1064#1074#0" expanded="false" />
+            <element signature="e#1105#1115#0" expanded="false" />
+            <element signature="e#1146#1156#0" expanded="false" />
+            <element signature="e#1193#1223#0" expanded="false" />
+            <element signature="e#1267#1289#0" expanded="false" />
+            <element signature="e#1333#1355#0" expanded="false" />
+            <element signature="e#1399#1421#0" expanded="false" />
+            <element signature="e#1463#1501#0" expanded="false" />
+            <element signature="e#1546#1569#0" expanded="false" />
+            <element signature="e#1611#1637#0" expanded="false" />
+            <element signature="e#1666#1739#0" expanded="false" />
+            <element signature="e#1769#1773#0" expanded="false" />
+            <element signature="e#1804#1808#0" expanded="false" />
+            <element signature="e#1840#2943#0" expanded="false" />
+            <element signature="e#2965#5478#0" expanded="false" />
+            <element signature="e#2999#3261#0" expanded="false" />
+            <element signature="e#3292#3302#0" expanded="false" />
+            <element signature="e#3333#3343#0" expanded="false" />
+            <element signature="e#3387#3462#0" expanded="false" />
+            <element signature="e#3510#4135#0" expanded="false" />
+            <element signature="e#4208#4735#0" expanded="false" />
+            <element signature="e#4813#5290#0" expanded="false" />
+            <element signature="e#5319#5323#0" expanded="false" />
+            <element signature="e#5355#5478#0" expanded="false" />
+            <element signature="e#5513#6096#0" expanded="false" />
+            <element signature="e#5547#5639#0" expanded="false" />
+            <element signature="e#5687#5741#0" expanded="false" />
+            <element signature="e#5780#5887#0" expanded="false" />
+            <element signature="e#5919#6096#0" expanded="false" />
+            <element signature="e#6117#6193#0" expanded="false" />
+            <element signature="e#6145#6193#0" expanded="false" />
+            <element signature="e#6243#6328#0" expanded="false" />
+            <element signature="e#6384#6584#0" expanded="false" />
+            <element signature="e#6623#6730#0" expanded="false" />
+            <element signature="e#6768#7035#0" expanded="false" />
+            <element signature="e#7081#7137#0" expanded="false" />
+            <element signature="e#7177#7242#0" expanded="false" />
+            <element signature="e#8233#8325#0" expanded="false" />
+            <element signature="e#8351#9509#0" expanded="false" />
+            <element signature="e#8375#9509#0" expanded="false" />
+            <element signature="e#9540#10355#0" expanded="false" />
+            <element signature="e#9593#9693#0" expanded="false" />
+            <element signature="e#9737#9792#0" expanded="false" />
+            <element signature="e#9821#10355#0" expanded="false" />
+            <element signature="e#10380#11413#0" expanded="false" />
+            <element signature="e#11437#11679#0" expanded="false" />
+            <element signature="e#11465#11679#0" expanded="false" />
+            <element signature="e#11704#11946#0" expanded="false" />
+            <element signature="e#11732#11946#0" expanded="false" />
+            <element signature="e#12801#15625#0" expanded="false" />
+            <element signature="e#15659#18592#0" expanded="false" />
+            <element signature="e#18631#18813#0" expanded="false" />
+            <element signature="e#18853#19038#0" expanded="false" />
+            <element signature="e#19067#20157#0" expanded="false" />
+            <element signature="e#20187#20610#0" expanded="false" />
+            <element signature="e#20285#20503#0" expanded="false" />
+            <element signature="e#20534#20610#0" expanded="false" />
+            <element signature="e#20634#22945#0" expanded="false" />
+            <element signature="e#20634#20743#1" expanded="false" />
+            <element signature="e#20796#20863#0" expanded="false" />
+            <element signature="e#20927#21136#0" expanded="false" />
+            <element signature="e#21170#21252#0" expanded="false" />
+            <element signature="e#21292#21426#0" expanded="false" />
+            <element signature="e#21465#21846#0" expanded="false" />
+            <element signature="e#21880#22945#0" expanded="false" />
+            <element signature="e#21880#22444#1" expanded="false" />
+            <element signature="e#22984#23219#0" expanded="false" />
+            <element signature="e#23259#23332#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/GitHub/ShooterInc/pywavefront/mesh.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="44" column="27" selection-start-line="44" selection-start-column="27" selection-end-line="44" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/GitHub/ShooterInc/objects/enemy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/GitHub/ShooterInc/pywavefront/material.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="108" column="32" selection-start-line="108" selection-start-column="32" selection-end-line="108" selection-end-column="32" />
+          <folding>
+            <element signature="e#1719#1742#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/GitHub/ShooterInc/pywavefront/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="118" column="0" selection-start-line="118" selection-start-column="0" selection-end-line="118" selection-end-column="0" />
+          <folding>
+            <element signature="e#1719#1746#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
